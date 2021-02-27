@@ -3,7 +3,3 @@
 ## Branch
 
 * hello_world
-
-* DB_practice
-
-* Http_authentication
