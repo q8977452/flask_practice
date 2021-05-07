@@ -1,2 +1,2 @@
-FLASK_APP=todoapp
+FLASK_APP=rest-api
 FLASK_ENV=development
